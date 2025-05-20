@@ -1,6 +1,7 @@
 🏆 FNB App of the Year – Coding Exercises
 
 This repository contains a collection of coding exercises designed to teach aspiring developers the basics of software development. These exercises were curated as part of a learning initiative aimed at building foundational programming skills through hands-on practice.
+
 💡 Purpose
 
 To provide beginner-friendly tasks that help new developers:
